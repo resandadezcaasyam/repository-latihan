@@ -3,6 +3,7 @@ RENCANA KONTEN RESA
 -Javascript
 *ES6
 *Konten JS
-*>Struktur Data Daasar
+>>React
+>>hehe
 -PHP Frameworks
 -Interviews
