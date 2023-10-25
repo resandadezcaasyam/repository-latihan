@@ -1,0 +1,7 @@
+RENCANA KONTEN RESA
+
+-Javascript
+*ES6
+*Konten JS
+-PHP Frameworks
+-Interviews
